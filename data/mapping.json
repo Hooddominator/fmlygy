@@ -1,0 +1,55 @@
+{
+  "mappings":{
+    "episode":{
+      "properties":{
+        "season":{
+          "type":"short"
+        },
+        "eos":{
+          "type":"short"
+        },
+        "title_de":{
+          "type":"text"
+        },
+        "release_de":{
+          "type":"date",
+          "format":"dd.MM.yyyy",
+          "ignore_malformed": true,
+          "null_value": ""
+        },
+        "title_en":{
+          "type":"text"
+        },
+        "release_en":{
+          "type":"date",
+          "format":"dd.MM.yyyy",
+          "ignore_malformed": true,
+          "null_value": ""
+        },
+        "episode":{
+          "type":"short"
+        }
+      }
+    },
+    "subtitle":{
+      "_parent":{
+        "type":"episodes"
+      },
+      "properties":{
+        "index":{
+          "type":"short"
+        },
+        "start":{
+          "type":"float"
+        },
+        "end":{
+          "type":"float"
+        },
+        "text":{
+          "type":"text",
+          "index":"analyzed"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "FamilyGuyFinder",
+  "authors": [
+    "H00dd0m1n4t0r htncreditor@gmail.com"
+  ],
+  "description": "find your episode by subtitlesearch",
+  "main": "index.js",
+  "keywords": [
+    "subtitle",
+    "elasticsearch",
+    "srt"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

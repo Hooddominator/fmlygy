@@ -1,0 +1,554 @@
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "01.01"}}
+{"season":"1","eos":"1","title_de":"Der großzügige Wohlfahrtsscheck","release_de":"17.08.2002","title_en":"Death Has A Shadow","release_en":"31.01.1999","episode":"1"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "01.02"}}
+{"season":"1","eos":"2","title_de":"Der verhängnisvolle Autounfall","release_de":"24.08.2002","title_en":"I Never Met The Dead Man","release_en":"11.04.1999","episode":"2"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "01.03"}}
+{"season":"1","eos":"3","title_de":"Stewies erster Geburtstag","release_de":"31.08.2002","title_en":"Chitty Chitty Death Bang","release_en":"18.04.1999","episode":"3"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "01.04"}}
+{"season":"1","eos":"4","title_de":"Die Zeitmaschine","release_de":"07.09.2002","title_en":"Mind Over Murder","release_en":"25.04.1999","episode":"4"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "01.05"}}
+{"season":"1","eos":"5","title_de":"Der Held von nebenan","release_de":"14.09.2002","title_en":"A Hero Sits Next Door","release_en":"02.05.1999","episode":"5"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "01.06"}}
+{"season":"1","eos":"6","title_de":"Nie mehr Pfadfinder","release_de":"21.09.2002","title_en":"The Son Also Draws","release_en":"09.05.1999","episode":"6"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "01.07"}}
+{"season":"1","eos":"7","title_de":"Das Leben des Brian","release_de":"28.09.2002","title_en":"Brian – Portrait Of A Dog","release_en":"16.05.1999","episode":"7"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.01"}}
+{"season":"2","eos":"1","title_de":"Stinkreich","release_de":"05.10.2002","title_en":"Peter, Peter, Caviar Eater","release_en":"23.09.1999","episode":"8"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.02"}}
+{"season":"2","eos":"2","title_de":"Heiliger Bimbam","release_de":"12.10.2002","title_en":"Holy Crap","release_en":"30.09.1999","episode":"9"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.03"}}
+{"season":"2","eos":"3","title_de":"Der letzte Knall","release_de":"19.10.2002","title_en":"DaBoom","release_en":"26.12.1999","episode":"10"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.04"}}
+{"season":"2","eos":"4","title_de":"Hundeliebe","release_de":"26.10.2002","title_en":"Brian In Love","release_en":"07.03.2000","episode":"11"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.05"}}
+{"season":"2","eos":"5","title_de":"Kohle ohne Ende","release_de":"02.11.2002","title_en":"Love Thy Trophy","release_en":"14.03.2000","episode":"12"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.06"}}
+{"season":"2","eos":"6","title_de":"Der Sensemann","release_de":"09.11.2002","title_en":"Death Is A Bitch","release_en":"21.03.2000","episode":"13"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.07"}}
+{"season":"2","eos":"7","title_de":"Der König ist tot","release_de":"08.02.2003","title_en":"The King Is Dead","release_en":"28.03.2000","episode":"14"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.08"}}
+{"season":"2","eos":"8","title_de":"Die Frau in Peter","release_de":"15.02.2003","title_en":"I Am Peter, Hear Me Roar","release_en":"28.03.2000","episode":"15"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.09"}}
+{"season":"2","eos":"9","title_de":"Todgesund","release_de":"22.02.2003","title_en":"If I’m Dyin’, I’m Lyin’","release_en":"04.04.2000","episode":"16"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.10"}}
+{"season":"2","eos":"10","title_de":"Die Schlammschlacht","release_de":"01.03.2003","title_en":"Running Mates","release_en":"11.04.2000","episode":"17"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.11"}}
+{"season":"2","eos":"11","title_de":"Knallbunt","release_de":"08.03.2003","title_en":"A Picture Is Worth A Thousand Bucks","release_en":"18.04.2000","episode":"18"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.12"}}
+{"season":"2","eos":"12","title_de":"Helden auf Sendung","release_de":"15.03.2003","title_en":"Fifteen Minutes Of Shame","release_en":"25.04.2000","episode":"19"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.13"}}
+{"season":"2","eos":"13","title_de":"Friede sei mit Dir","release_de":"22.03.2003","title_en":"Road To Rhode Island","release_en":"30.05.2000","episode":"20"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.14"}}
+{"season":"2","eos":"14","title_de":"Peters dritter Frühling","release_de":"29.03.2003","title_en":"Let’s Go To The Hop","release_en":"06.06.2000","episode":"21"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.15"}}
+{"season":"2","eos":"15","title_de":"Stewie macht ernst","release_de":"05.04.2003","title_en":"Dammit Janet","release_en":"13.06.2000","episode":"22"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.16"}}
+{"season":"2","eos":"16","title_de":"Mord ohne Auftrag","release_de":"12.04.2003","title_en":"There’s Something About Paulie","release_en":"27.06.2000","episode":"23"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.17"}}
+{"season":"2","eos":"17","title_de":"Club der Schönen","release_de":"19.04.2003","title_en":"He’s Too Sexy For His Fat","release_en":"27.06.2000","episode":"24"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.18"}}
+{"season":"2","eos":"18","title_de":"Petoria","release_de":"26.04.2003","title_en":"E Peterbus Unum","release_en":"12.07.2000","episode":"25"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.19"}}
+{"season":"2","eos":"19","title_de":"Schlagzeilen","release_de":"03.05.2003","title_en":"The Story On Page 1","release_en":"18.07.2000","episode":"26"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.20"}}
+{"season":"2","eos":"20","title_de":"Im Rausch der Musik","release_de":"10.05.2003","title_en":"Wasted Talent","release_en":"25.07.2000","episode":"27"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "02.21"}}
+{"season":"2","eos":"21","title_de":"Der Leihvater","release_de":"17.05.2003","title_en":"Fore, Father","release_en":"01.08.2000","episode":"28"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.01"}}
+{"season":"3","eos":"1","title_de":"Der schmale, weiße Grat","release_de":"08.08.2005","title_en":"The Thin White Line","release_en":"11.07.2001","episode":"29"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.02"}}
+{"season":"3","eos":"2","title_de":"Brian goes to Hollywood","release_de":"15.08.2005","title_en":"Brian Does Hollywood","release_en":"18.07.2001","episode":"30"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.03"}}
+{"season":"3","eos":"3","title_de":"Mr. Griffin geht nach Washington","release_de":"22.08.2005","title_en":"Mr. Griffin Goes To Washington","release_en":"25.07.2001","episode":"31"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.04"}}
+{"season":"3","eos":"4","title_de":"Die Briten kommen","release_de":"29.08.2005","title_en":"One Of By Clam, Two If By Sea","release_en":"01.08.2001","episode":"32"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.05"}}
+{"season":"3","eos":"5","title_de":"Und den Größten hat …","release_de":"05.09.2005","title_en":"And The Weiner Is …","release_en":"08.08.2001","episode":"33"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.06"}}
+{"season":"3","eos":"6","title_de":"Der Tod lebt","release_de":"12.09.2005","title_en":"Death Lives","release_en":"15.08.2001","episode":"34"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.07"}}
+{"season":"3","eos":"7","title_de":"Lois, die Kampfmaschine","release_de":"19.09.2005","title_en":"Lethal Weapons","release_en":"22.08.2001","episode":"35"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.08"}}
+{"season":"3","eos":"8","title_de":"Wenn Frauen küssen müssen","release_de":"26.09.2005","title_en":"The Kiss Seen Around The World","release_en":"29.08.2001","episode":"36"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.09"}}
+{"season":"3","eos":"9","title_de":"Der schwarze Ritter","release_de":"06.10.2005","title_en":"Mr. Saturday Knight","release_en":"05.09.2001","episode":"37"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.10"}}
+{"season":"3","eos":"10","title_de":"Der dicke Mann und das Meer","release_de":"13.10.2005","title_en":"Fish Out Of Water","release_en":"19.09.2001","episode":"38"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.11"}}
+{"season":"3","eos":"11","title_de":"Zeugung verhindert","release_de":"20.10.2005","title_en":"Emission Impossible","release_en":"08.11.2001","episode":"39"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.12"}}
+{"season":"3","eos":"12","title_de":"Lieben und sterben in Dixie","release_de":"27.10.2005","title_en":"To Live & Die In Dixie","release_en":"15.11.2001","episode":"40"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.13"}}
+{"season":"3","eos":"13","title_de":"Scharfe Köter","release_de":"03.11.2005","title_en":"Screwed The Pooch","release_en":"29.11.2001","episode":"41"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.14"}}
+{"season":"3","eos":"14","title_de":"Der schwarze Peter","release_de":"10.11.2005","title_en":"Peter Griffin: Husband, Father … Brother?","release_en":"06.12.2001","episode":"42"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.15"}}
+{"season":"3","eos":"15","title_de":"Die Joe Swanson Story","release_de":"17.11.2005","title_en":"Ready, Willing, & Disabled","release_en":"20.12.2001","episode":"43"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.16"}}
+{"season":"3","eos":"16","title_de":"Ein besonders missglücktes Weihnachten","release_de":"22.12.2005","title_en":"A Very Special Family Guy Freakin’ Christmas","release_en":"21.12.2001","episode":"44"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.17"}}
+{"season":"3","eos":"17","title_de":"Das Schwalbennest","release_de":"27.10.2005","title_en":"Brian Wallows And Peter Swallows","release_en":"17.01.2002","episode":"45"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.18"}}
+{"season":"3","eos":"18","title_de":"Nackt durchs Leben","release_de":"24.11.2005","title_en":"From Method To Madness","release_en":"24.01.2002","episode":"46"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.19"}}
+{"season":"3","eos":"19","title_de":"Eifersucht und Superkleber","release_de":"01.12.2005","title_en":"Stuck Together, Torn Apart","release_en":"31.01.2002","episode":"47"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.20"}}
+{"season":"3","eos":"20","title_de":"Stewie, Brian und die Welt","release_de":"08.12.2005","title_en":"Road To Europe","release_en":"07.02.2002","episode":"48"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.21"}}
+{"season":"3","eos":"21","title_de":"Family Guy Fan-Post","release_de":"15.12.2005","title_en":"Family Guy Viewer Mail #1","release_en":"14.02.2002","episode":"49"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "03.22"}}
+{"season":"3","eos":"22","title_de":"Ein Davidstern am Himmel","release_de":"09.02.2006","title_en":"When You Wish Upon A Weinstein","release_en":"10.12.2004","episode":"50"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.01"}}
+{"season":"4","eos":"1","title_de":"Die Passion Griffini","release_de":"04.07.2007","title_en":"North By North Quahog","release_en":"01.05.2005","episode":"51"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.02"}}
+{"season":"4","eos":"2","title_de":"Liebe deine Lehrer","release_de":"04.07.2007","title_en":"Fast Times At Buddy Cianci Jr. High","release_en":"08.05.2005","episode":"52"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.03"}}
+{"season":"4","eos":"3","title_de":"Blinder Eifer","release_de":"11.07.2007","title_en":"Blind Ambition","release_en":"15.05.2005","episode":"53"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.04"}}
+{"season":"4","eos":"4","title_de":"Die Familienband","release_de":"11.07.2007","title_en":"Don’t Make Me Over","release_en":"05.06.2005","episode":"54"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.05"}}
+{"season":"4","eos":"5","title_de":"Drei sind einer zu viel","release_de":"18.07.2007","title_en":"The Cleveland-Loretta Quagmire","release_en":"12.06.2005","episode":"55"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.06"}}
+{"season":"4","eos":"6","title_de":"Das zurückgebliebene Genie","release_de":"18.07.2007","title_en":"Petarded","release_en":"19.06.2005","episode":"56"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.07"}}
+{"season":"4","eos":"7","title_de":"Brian, der Bachelor","release_de":"25.07.2007","title_en":"Brian The Bachelor","release_en":"26.06.2005","episode":"57"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.08"}}
+{"season":"4","eos":"8","title_de":"Tochter günstig abzugeben","release_de":"25.07.2007","title_en":"8 Simple Rules For Buying My Teenage Daughter","release_en":"10.07.2005","episode":"58"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.09"}}
+{"season":"4","eos":"9","title_de":"Diebesglück","release_de":"01.08.2007","title_en":"Breaking Out Is Hard To Do","release_en":"17.07.2005","episode":"59"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.10"}}
+{"season":"4","eos":"10","title_de":"Mom ist ein Model","release_de":"01.08.2007","title_en":"Model Misbehavior","release_en":"24.07.2005","episode":"60"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.11"}}
+{"season":"4","eos":"11","title_de":"Peter und James Woods","release_de":"08.08.2007","title_en":"Peter’s Got Woods","release_en":"11.09.2005","episode":"61"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.12"}}
+{"season":"4","eos":"12","title_de":"Robinson Griffin","release_de":"08.08.2007","title_en":"Perfect Castaway","release_en":"18.09.2005","episode":"62"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.13"}}
+{"season":"4","eos":"13","title_de":"Dschungelliebe","release_de":"18.08.2007","title_en":"Jungle Love","release_en":"25.09.2005","episode":"63"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.14"}}
+{"season":"4","eos":"14","title_de":"PTV","release_de":"18.08.2007","title_en":"PTV","release_en":"06.11.2005","episode":"64"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.15"}}
+{"season":"4","eos":"15","title_de":"Brian auf der Uni","release_de":"22.08.2007","title_en":"Brian Goes Back To College","release_en":"13.11.2005","episode":"65"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.16"}}
+{"season":"4","eos":"16","title_de":"Vater und Sohn","release_de":"22.08.2007","title_en":"The Courtship Of Stewie’s Father","release_en":"20.11.2005","episode":"66"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.17"}}
+{"season":"4","eos":"17","title_de":"Der Fettwanst-Würger","release_de":"29.08.2007","title_en":"Fat Guy Strangler","release_en":"27.11.2005","episode":"67"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.18"}}
+{"season":"4","eos":"18","title_de":"Die Kirche des Fonz","release_de":"29.08.2007","title_en":"The Father, The Son, And The Holy Fonz","release_en":"18.12.2005","episode":"68"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.19"}}
+{"season":"4","eos":"19","title_de":"Brian singt und swingt","release_de":"05.09.2007","title_en":"Brian Sings & Swings","release_en":"08.01.2006","episode":"69"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.20"}}
+{"season":"4","eos":"20","title_de":"Ein Sportlerschicksal","release_de":"05.09.2007","title_en":"Patriot Games","release_en":"29.01.2006","episode":"70"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.21"}}
+{"season":"4","eos":"21","title_de":"Quagmire heiratet","release_de":"12.09.2007","title_en":"I Take Thee Quagmire","release_en":"12.03.2006","episode":"71"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.22"}}
+{"season":"4","eos":"22","title_de":"Die Fette in meinem Bett","release_de":"12.09.2007","title_en":"Sibling Rivalry","release_en":"26.03.2006","episode":"72"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.23"}}
+{"season":"4","eos":"23","title_de":"Inspiration","release_de":"19.09.2007","title_en":"Deep Throats","release_en":"09.04.2006","episode":"73"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.24"}}
+{"season":"4","eos":"24","title_de":"Peterotika","release_de":"19.09.2007","title_en":"Peterotica","release_en":"23.04.2006","episode":"74"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.25"}}
+{"season":"4","eos":"25","title_de":"Sie dürfen den Kerl jetzt küssen","release_de":"26.09.2007","title_en":"You May Now Kiss The … Uh … Guy Who Receives","release_en":"30.04.2006","episode":"75"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.26"}}
+{"season":"4","eos":"26","title_de":"Petergeist","release_de":"26.09.2007","title_en":"Petergeist","release_en":"07.05.2006","episode":"76"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.27"}}
+{"season":"4","eos":"27","title_de":"Familiengeschichten","release_de":"29.09.2007","title_en":"Untitled Griffin Family History","release_en":"14.05.2006","episode":"77"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.28"}}
+{"season":"4","eos":"28","title_de":"Stewies wundersame Wandlung","release_de":"10.10.2007","title_en":"Stewie Be Good (1)","release_en":"21.05.2006","episode":"78"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.29"}}
+{"season":"4","eos":"29","title_de":"Stewie sucht seinen Vater","release_de":"10.10.2007","title_en":"Bango Was His Name Oh (2)","release_en":"21.05.2006","episode":"79"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "04.30"}}
+{"season":"4","eos":"30","title_de":"Der zukünftige Stewie","release_de":"10.10.2007","title_en":"Stu And Stevie’s Excellent Adventure (3)","release_en":"21.05.2006","episode":"80"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.01"}}
+{"season":"5","eos":"1","title_de":"Stewie liebt Lois","release_de":"16.05.2009","title_en":"Stewie Loves Lois","release_en":"10.09.2006","episode":"81"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.02"}}
+{"season":"5","eos":"2","title_de":"Stiefsohn Peter","release_de":"23.05.2009","title_en":"Mother Tucker","release_en":"17.09.2006","episode":"82"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.03"}}
+{"season":"5","eos":"3","title_de":"Die Hölle kommt nach Quahog","release_de":"30.05.2009","title_en":"Hell Comes To Quahog","release_en":"24.09.2006","episode":"83"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.04"}}
+{"season":"5","eos":"4","title_de":"Der Soldat Brian Griffin","release_de":"06.06.2009","title_en":"Saving Private Brian","release_en":"05.11.2006","episode":"84"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.05"}}
+{"season":"5","eos":"5","title_de":"Peter lässt arbeiten","release_de":"13.06.2009","title_en":"Whistle While Your Wife Works","release_en":"12.11.2006","episode":"85"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.06"}}
+{"season":"5","eos":"6","title_de":"Was Sie noch nie über Sex wissen wollten","release_de":"20.06.2009","title_en":"Prick Up Your Ears","release_en":"19.11.2006","episode":"86"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.07"}}
+{"season":"5","eos":"7","title_de":"Weiberkrebs","release_de":"27.06.2009","title_en":"Chick Cancer","release_en":"26.11.2006","episode":"87"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.08"}}
+{"season":"5","eos":"8","title_de":"Die Gesetzeshüter","release_de":"04.07.2009","title_en":"Barely Legal","release_en":"17.12.2006","episode":"88"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.09"}}
+{"season":"5","eos":"9","title_de":"Jäger des verlorenen Rupert","release_de":"11.07.2009","title_en":"Road To Rupert","release_en":"28.01.2007","episode":"89"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.10"}}
+{"season":"5","eos":"10","title_de":"Peters zwei Väter","release_de":"18.07.2009","title_en":"Peter’s Two Dads","release_en":"11.02.2007","episode":"90"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.11"}}
+{"season":"5","eos":"11","title_de":"Der Schwächere gibt nach","release_de":"25.07.2009","title_en":"The Tan Aquatic With Steve Zissou","release_en":"18.02.2007","episode":"91"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.12"}}
+{"season":"5","eos":"12","title_de":"Airport ’07 (oder) Lizenz zum Fliegen","release_de":"01.08.2009","title_en":"Airport ‘07","release_en":"04.03.2007","episode":"92"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.13"}}
+{"season":"5","eos":"13","title_de":"Peter und Bill Clinton auf großer Fahrt","release_de":"08.08.2009","title_en":"Bill And Peter’s Bogus Journey","release_en":"11.03.2007","episode":"93"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.14"}}
+{"season":"5","eos":"14","title_de":"Kein Essen auf Rädern","release_de":"15.08.2009","title_en":"No Meals On Wheels","release_en":"25.03.2007","episode":"94"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.15"}}
+{"season":"5","eos":"15","title_de":"Texorzismus","release_de":"22.08.2009","title_en":"Boys Do Cry","release_en":"29.04.2007","episode":"95"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.16"}}
+{"season":"5","eos":"16","title_de":"Zweiter Bildungsweg für Chris","release_de":"29.08.2009","title_en":"No Chris Left Behind","release_en":"06.05.2007","episode":"96"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.17"}}
+{"season":"5","eos":"17","title_de":"Im Rausch der Macht","release_de":"05.09.2009","title_en":"It Takes A Village Idiot, And I Married One","release_en":"13.05.2007","episode":"97"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "05.18"}}
+{"season":"5","eos":"18","title_de":"Gestatten, Lois Quagmires","release_de":"12.09.2009","title_en":"Meet The Quagmires","release_en":"20.05.2007","episode":"98"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "06.01"}}
+{"season":"6","eos":"1","title_de":"Blue Harvest (1)","release_de":"14.02.2010","title_en":"Blue Harvest (1)","release_en":"23.09.2007","episode":"99"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "06.01"}}
+{"season":"6","eos":"1","title_de":"Blue Harvest (2)","release_de":"21.02.2010","title_en":"Blue Harvest (2)","release_en":"23.09.2007","episode":"99"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "06.02"}}
+{"season":"6","eos":"2","title_de":"Brian zieht aus","release_de":"28.02.2010","title_en":"Movin’ Out (Brian’s Song)","release_en":"30.09.2007","episode":"100"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "06.03"}}
+{"season":"6","eos":"3","title_de":"Joes Auferstehung","release_de":"07.03.2010","title_en":"Believe It Or Not, Joe’s Walking On Air","release_en":"07.10.2007","episode":"101"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "06.04"}}
+{"season":"6","eos":"4","title_de":"Stewie killt Lois (1)","release_de":"21.03.2010","title_en":"Stewie Kills Lois (1)","release_en":"04.11.2007","episode":"102"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "06.05"}}
+{"season":"6","eos":"5","title_de":"Lois killt Stewie (2)","release_de":"28.03.2010","title_en":"Lois Kills Stewie (2)","release_en":"11.11.2007","episode":"103"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "06.06"}}
+{"season":"6","eos":"6","title_de":"Pedro Griffin","release_de":"11.04.2010","title_en":"Padre De Familia","release_en":"18.11.2007","episode":"104"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "06.07"}}
+{"season":"6","eos":"7","title_de":"Peters Tochter","release_de":"18.04.2010","title_en":"Peter’s Daughter","release_en":"25.11.2007","episode":"105"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "06.08"}}
+{"season":"6","eos":"8","title_de":"Schnurrbart und Schlaganfall","release_de":"25.04.2010","title_en":"McStroke","release_en":"13.01.2008","episode":"106"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "06.09"}}
+{"season":"6","eos":"9","title_de":"Immer wieder Woods","release_de":"02.05.2010","title_en":"Back To The Woods","release_en":"17.02.2008","episode":"107"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "06.10"}}
+{"season":"6","eos":"10","title_de":"Spiel’’s noch einmal, Brian","release_de":"09.05.2010","title_en":"Play It Again, Brian","release_en":"02.03.2008","episode":"108"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "06.11"}}
+{"season":"6","eos":"11","title_de":"Das frühere Leben des Brian","release_de":"16.05.2010","title_en":"The Former Life Of Brian","release_en":"27.04.2008","episode":"109"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "06.12"}}
+{"season":"6","eos":"12","title_de":"Long John Peter","release_de":"30.05.2010","title_en":"Long John Peter","release_en":"04.05.2008","episode":"110"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "07.01"}}
+{"season":"7","eos":"1","title_de":"Schwarze Liebe","release_de":"30.07.2011","title_en":"Love Blacktually","release_en":"28.09.2008","episode":"111"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "07.02"}}
+{"season":"7","eos":"2","title_de":"Alle lieben Jesus","release_de":"06.08.2011","title_en":"I Dream Of Jesus","release_en":"05.10.2008","episode":"112"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "07.03"}}
+{"season":"7","eos":"3","title_de":"Reise ins Reich","release_de":"13.08.2011","title_en":"Road To Germany","release_en":"19.10.2008","episode":"113"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "07.04"}}
+{"season":"7","eos":"4","title_de":"Baby nicht an Bord","release_de":"20.08.2011","title_en":"Baby Not On Board","release_en":"02.11.2008","episode":"114"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "07.05"}}
+{"season":"7","eos":"5","title_de":"Der neue Brian","release_de":"27.08.2011","title_en":"The Man With Two Brians","release_en":"09.11.2008","episode":"115"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "07.06"}}
+{"season":"7","eos":"6","title_de":"Ein Mensch dritter Klasse","release_de":"30.07.2011","title_en":"Tales Of A Third Grade Nothing","release_en":"16.11.2008","episode":"116"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "07.07"}}
+{"season":"7","eos":"7","title_de":"Oceans dreieinhalb","release_de":"30.07.2011","title_en":"Ocean’s Three And A Half","release_en":"15.02.2009","episode":"117"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "07.08"}}
+{"season":"7","eos":"8","title_de":"Family Gay","release_de":"31.07.2011","title_en":"Family Gay","release_en":"08.03.2009","episode":"118"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "07.09"}}
+{"season":"7","eos":"9","title_de":"Mördermäßig","release_de":"01.08.2011","title_en":"The Juice Is Loose!","release_en":"15.03.2009","episode":"119"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "07.10"}}
+{"season":"7","eos":"10","title_de":"Ein Job für Lois","release_de":"01.08.2011","title_en":"FOX-y Lady","release_en":"22.03.2009","episode":"120"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "07.11"}}
+{"season":"7","eos":"11","title_de":"Nicht alle Hunde kommen in den Himmel","release_de":"02.08.2011","title_en":"Not All Dogs Go To Heaven","release_en":"29.03.2009","episode":"121"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "07.12"}}
+{"season":"7","eos":"12","title_de":"Kifferwahn","release_de":"03.08.2011","title_en":"420","release_en":"19.04.2009","episode":"122"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "07.13"}}
+{"season":"7","eos":"13","title_de":"Stew-Roide","release_de":"07.08.2011","title_en":"Stew-Roids","release_en":"26.04.2009","episode":"123"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "07.14"}}
+{"season":"7","eos":"14","title_de":"Hundeelend","release_de":"08.08.2011","title_en":"We Love You Conrad","release_en":"03.05.2009","episode":"124"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "07.15"}}
+{"season":"7","eos":"15","title_de":"Dreimal King","release_de":"12.11.2011","title_en":"Three Kings","release_en":"10.05.2009","episode":"125"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "07.16"}}
+{"season":"7","eos":"16","title_de":"Die Siedler von Quahog","release_de":"05.11.2011","title_en":"Peter’s Progress","release_en":"17.05.2009","episode":"126"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.01"}}
+{"season":"8","eos":"1","title_de":"Straße ins Multiversum","release_de":"11.08.2012","title_en":"Road To The Multiverse","release_en":"27.09.2009","episode":"127"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.02"}}
+{"season":"8","eos":"2","title_de":"Family Goi","release_de":"18.08.2012","title_en":"Family Goy","release_en":"04.10.2009","episode":"128"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.03"}}
+{"season":"8","eos":"3","title_de":"Spione, so ähnlich wie wir","release_de":"25.08.2012","title_en":"Spies Reminiscent Of Us","release_en":"11.10.2009","episode":"129"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.04"}}
+{"season":"8","eos":"4","title_de":"Brians alte Freundin","release_de":"01.09.2012","title_en":"Brian’s Got A Brand New Bag","release_en":"08.11.2009","episode":"130"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.05"}}
+{"season":"8","eos":"5","title_de":"Hannah Banana","release_de":"08.09.2012","title_en":"Hannah Banana","release_en":"08.11.2009","episode":"131"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.06"}}
+{"season":"8","eos":"6","title_de":"Quagmires Baby","release_de":"15.09.2012","title_en":"Quagmire’s Baby","release_en":"15.11.2009","episode":"132"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.07"}}
+{"season":"8","eos":"7","title_de":"Jerome ist der neue Schwarze","release_de":"22.09.2012","title_en":"Jerome Is The New Black","release_en":"22.11.2009","episode":"133"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.08"}}
+{"season":"8","eos":"8","title_de":"Da liegt der Hund begraben","release_de":"29.09.2012","title_en":"Dog Gone","release_en":"29.11.2009","episode":"134"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.09"}}
+{"season":"8","eos":"9","title_de":"Die Firma","release_de":"06.10.2012","title_en":"Business Guy","release_en":"13.12.2009","episode":"135"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.10"}}
+{"season":"8","eos":"10","title_de":"Alles vergessen","release_de":"13.10.2012","title_en":"Big Man On Hippocampus","release_en":"03.01.2010","episode":"136"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.11"}}
+{"season":"8","eos":"11","title_de":"Knastbraut Meg","release_de":"20.10.2012","title_en":"Dial Meg For Murder","release_en":"31.01.2010","episode":"137"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.12"}}
+{"season":"8","eos":"12","title_de":"XXL Medium","release_de":"27.10.2012","title_en":"Extra Large Medium","release_en":"14.02.2010","episode":"138"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.13"}}
+{"season":"8","eos":"13","title_de":"Queen Stewie","release_de":"03.11.2012","title_en":"Go, Stewie, Go!","release_en":"14.03.2010","episode":"139"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.14"}}
+{"season":"8","eos":"14","title_de":"Peter-elle Belästigung","release_de":"10.11.2012","title_en":"Peter-assment","release_en":"21.03.2010","episode":"140"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.15"}}
+{"season":"8","eos":"15","title_de":"Der Durchbruch","release_de":"29.10.2012","title_en":"Brian Griffin’s House Of Payne","release_en":"28.03.2010","episode":"141"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.16"}}
+{"season":"8","eos":"16","title_de":"April in Quahog","release_de":"17.11.2012","title_en":"April In Quahog","release_en":"11.04.2010","episode":"142"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.17"}}
+{"season":"8","eos":"17","title_de":"Brian und Stewie","release_de":"24.11.2012","title_en":"Brian And Stewie","release_en":"02.05.2010","episode":"143"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.18"}}
+{"season":"8","eos":"18","title_de":"Quagmires Dad","release_de":"12.11.2012","title_en":"Quagmire’s Dad","release_en":"09.05.2010","episode":"144"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.19"}}
+{"season":"8","eos":"19","title_de":"Jäger des schmutzigen Witzes","release_de":"01.12.2012","title_en":"The Splendid Source","release_en":"16.05.2010","episode":"145"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.20"}}
+{"season":"8","eos":"20","title_de":"Irgendwo, Irgendwie, Irgendwann auf der dunklen Seite (1)","release_de":"15.12.2012","title_en":"Something, Something, Something Dark Side (1)","release_en":"23.05.2010","episode":"146"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.20"}}
+{"season":"8","eos":"20","title_de":"Irgendwo, Irgendwie, Irgendwann auf der dunklen Seite (2)","release_de":"22.12.2012","title_en":"Something, Something, Something Dark Side (2)","release_en":"23.05.2010","episode":"146"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "08.21"}}
+{"season":"8","eos":"21","title_de":"Die Leihmutter","release_de":"08.12.2012","title_en":"Partial Terms Of Endearment","release_en":"20.06.2010","episode":"147"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.01"}}
+{"season":"9","eos":"1","title_de":"Und dann gab es weniger (1)","release_de":"27.07.2013","title_en":"And Then There Were Fewer (1)","release_en":"26.09.2010","episode":"148"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.01"}}
+{"season":"9","eos":"1","title_de":"Und dann gab es weniger (2)","release_de":"03.08.2013","title_en":"And Then There Were Fewer (2)","release_en":"26.09.2010","episode":"148"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.02"}}
+{"season":"9","eos":"2","title_de":"Rechts vor links","release_de":"10.08.2013","title_en":"Excellence In Broadcasting","release_en":"03.10.2010","episode":"149"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.03"}}
+{"season":"9","eos":"3","title_de":"Carter geht fremd","release_de":"16.08.2013","title_en":"Welcome Back, Carter","release_en":"10.10.2010","episode":"150"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.04"}}
+{"season":"9","eos":"4","title_de":"Halloween in der Spooner Street","release_de":"19.08.2013","title_en":"Halloween On Spooner Street","release_en":"07.11.2010","episode":"151"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.05"}}
+{"season":"9","eos":"5","title_de":"Baby, du haust mich um","release_de":"19.08.2013","title_en":"Baby, You Knock Me Out","release_en":"14.11.2010","episode":"152"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.06"}}
+{"season":"9","eos":"6","title_de":"Brian schreibt einen Bestseller","release_de":"20.08.2013","title_en":"Brian Writes A Bestseller","release_en":"21.11.2010","episode":"153"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.07"}}
+{"season":"9","eos":"7","title_de":"Reise zum Nordpol (1)","release_de":"20.08.2013","title_en":"Road To The North Pole (1)","release_en":"12.12.2010","episode":"154"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.07"}}
+{"season":"9","eos":"7","title_de":"Reise zum Nordpol (2)","release_de":"21.08.2013","title_en":"Road To The North Pole (2)","release_en":"12.12.2010","episode":"154"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.08"}}
+{"season":"9","eos":"8","title_de":"Wer nicht hören will, braucht Nieren","release_de":"21.08.2013","title_en":"New Kidney In Town","release_en":"09.01.2011","episode":"155"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.09"}}
+{"season":"9","eos":"9","title_de":"Jugendsünden","release_de":"22.08.2013","title_en":"And I’m Joyce Kinney","release_en":"16.01.2011","episode":"156"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.10"}}
+{"season":"9","eos":"10","title_de":"Die Freunde des Peter G.","release_de":"22.08.2013","title_en":"Friends Of Peter G.","release_en":"13.02.2011","episode":"157"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.11"}}
+{"season":"9","eos":"11","title_de":"Marionetten-Theater","release_de":"23.08.2013","title_en":"German Guy","release_en":"20.02.2011","episode":"158"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.12"}}
+{"season":"9","eos":"12","title_de":"Liebe auf Rädern","release_de":"23.08.2013","title_en":"The Hand That Rocks The Wheelchair","release_en":"06.03.2011","episode":"159"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.13"}}
+{"season":"9","eos":"13","title_de":"Rollentausch","release_de":"26.08.2013","title_en":"Trading Places","release_en":"20.03.2011","episode":"160"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.14"}}
+{"season":"9","eos":"14","title_de":"Der Aufreiß-Kurs","release_de":"26.08.2013","title_en":"Tiegs For Two","release_en":"10.04.2011","episode":"161"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.15"}}
+{"season":"9","eos":"15","title_de":"Zehn Hochzeiten und ein Problemfall","release_de":"27.08.2013","title_en":"Brothers & Sisters","release_en":"17.04.2011","episode":"162"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.16"}}
+{"season":"9","eos":"16","title_de":"Der Urknall","release_de":"27.08.2013","title_en":"The Big Bang Theory","release_en":"08.05.2011","episode":"163"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.17"}}
+{"season":"9","eos":"17","title_de":"Pariser Affäre","release_de":"28.08.2013","title_en":"Foreign Affairs","release_en":"15.05.2011","episode":"164"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.18"}}
+{"season":"9","eos":"18","title_de":"Es ist eine Falle! (1)","release_de":"28.08.2013","title_en":"It’s A Trap! (1)","release_en":"22.05.2011","episode":"165"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "09.18"}}
+{"season":"9","eos":"18","title_de":"Es ist eine Falle! (2)","release_de":"29.08.2013","title_en":"It’s A Trap! (2)","release_en":"22.05.2011","episode":"165"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.01"}}
+{"season":"10","eos":"1","title_de":"Das große Los","release_de":"29.08.2013","title_en":"Lottery Fever","release_en":"25.09.2011","episode":"166"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.02"}}
+{"season":"10","eos":"2","title_de":"Pilze und Protest","release_de":"30.08.2013","title_en":"Seahorse Seashell Party","release_en":"02.10.2011","episode":"167"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.03"}}
+{"season":"10","eos":"3","title_de":"Die Geschichte der Brenda Q.","release_de":"30.08.2013","title_en":"Screams Of Silence: The Story Of Brenda Q","release_en":"30.10.2011","episode":"168"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.04"}}
+{"season":"10","eos":"4","title_de":"Stewie auf Spritztour","release_de":"02.09.2013","title_en":"Stewie Goes For A Drive","release_en":"06.11.2011","episode":"169"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.05"}}
+{"season":"10","eos":"5","title_de":"Alles auf Anfang","release_de":"02.09.2013","title_en":"Road To The Pilot","release_en":"13.11.2011","episode":"170"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.06"}}
+{"season":"10","eos":"6","title_de":"Der verlorene Sohn","release_de":"03.09.2013","title_en":"Thanksgiving","release_en":"20.11.2011","episode":"171"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.07"}}
+{"season":"10","eos":"7","title_de":"Amish für Anfänger","release_de":"03.09.2013","title_en":"Amish Guy","release_en":"27.11.2011","episode":"172"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.08"}}
+{"season":"10","eos":"8","title_de":"Gesprengte Ketten","release_de":"04.09.2013","title_en":"Cool Hand Peter","release_en":"04.12.2011","episode":"173"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.09"}}
+{"season":"10","eos":"9","title_de":"Oh wie schön ist Florida","release_de":"04.09.2013","title_en":"Grumpy Old Man","release_en":"11.12.2011","episode":"174"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.10"}}
+{"season":"10","eos":"10","title_de":"Quagmire und Meg","release_de":"05.09.2013","title_en":"Quagmire And Meg","release_en":"08.01.2012","episode":"175"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.11"}}
+{"season":"10","eos":"11","title_de":"Liebe macht blind","release_de":"05.09.2013","title_en":"The Blind Side","release_en":"15.01.2012","episode":"176"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.12"}}
+{"season":"10","eos":"12","title_de":"Lasst uns beten","release_de":"06.09.2013","title_en":"Livin’ On A Prayer","release_en":"29.01.2012","episode":"177"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.13"}}
+{"season":"10","eos":"13","title_de":"Tom Tucker: Ein Mann und sein Traum","release_de":"06.09.2013","title_en":"Tom Tucker: The Man And His Dream","release_en":"12.02.2012","episode":"178"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.14"}}
+{"season":"10","eos":"14","title_de":"Mit allen Wassern gewaschen …","release_de":"09.09.2013","title_en":"Be Careful What You Fish For","release_en":"19.02.2012","episode":"179"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.15"}}
+{"season":"10","eos":"15","title_de":"Eine zündende Idee","release_de":"09.09.2013","title_en":"Burning Down The Bayit","release_en":"04.03.2012","episode":"180"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.16"}}
+{"season":"10","eos":"16","title_de":"Killer Queen","release_de":"10.09.2013","title_en":"Killer Queen","release_en":"11.03.2012","episode":"181"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.17"}}
+{"season":"10","eos":"17","title_de":"Die letzten Menschen und ein Hund","release_de":"10.09.2013","title_en":"Forget-Me-Not","release_en":"18.03.2012","episode":"182"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.18"}}
+{"season":"10","eos":"18","title_de":"Peteys Spaßhaus","release_de":"11.09.2013","title_en":"You Can’t Do That On Television, Peter","release_en":"01.04.2012","episode":"183"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.19"}}
+{"season":"10","eos":"19","title_de":"Mr. und Mrs. Stewie","release_de":"11.09.2013","title_en":"Mr. And Mrs. Stewie","release_en":"29.04.2012","episode":"184"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.20"}}
+{"season":"10","eos":"20","title_de":"Megs Entführung","release_de":"12.09.2013","title_en":"Leggo My Meg-O","release_en":"06.05.2012","episode":"185"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.21"}}
+{"season":"10","eos":"21","title_de":"Tea Peter","release_de":"12.09.2013","title_en":"Tea Peter","release_en":"13.05.2012","episode":"186"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.22"}}
+{"season":"10","eos":"22","title_de":"Family Guy Fan-Post, die Zweite","release_de":"13.09.2013","title_en":"Family Guy Viewer Mail #2","release_en":"20.05.2012","episode":"187"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "10.23"}}
+{"season":"10","eos":"23","title_de":"Joes Affäre","release_de":"13.09.2013","title_en":"Internal Affairs","release_en":"20.05.2012","episode":"188"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.01"}}
+{"season":"11","eos":"1","title_de":"Der Berg ruft","release_de":"17.07.2014","title_en":"Into Fat Air","release_en":"30.09.2012","episode":"189"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.02"}}
+{"season":"11","eos":"2","title_de":"Die Nielsen-Familie","release_de":"17.07.2014","title_en":"Ratings Guy","release_en":"07.10.2012","episode":"190"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.03"}}
+{"season":"11","eos":"3","title_de":"Der alte Mann und der Krebs","release_de":"24.07.2014","title_en":"The Old Man & The Big ‘C’","release_en":"04.11.2012","episode":"191"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.04"}}
+{"season":"11","eos":"4","title_de":"Yug Ylimaf","release_de":"24.07.2014","title_en":"Yug Ylimaf","release_en":"11.11.2012","episode":"192"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.05"}}
+{"season":"11","eos":"5","title_de":"Joes Rache","release_de":"31.07.2014","title_en":"Joe’s Revenge","release_en":"18.11.2012","episode":"193"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.06"}}
+{"season":"11","eos":"6","title_de":"Die Schildkröte","release_de":"31.07.2014","title_en":"Lois Comes Out Of Her Shell","release_en":"25.11.2012","episode":"194"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.07"}}
+{"season":"11","eos":"7","title_de":"Meg wider Willen","release_de":"07.08.2014","title_en":"Friends Without Benefits","release_en":"09.12.2012","episode":"195"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.08"}}
+{"season":"11","eos":"8","title_de":"Jesus, Maria und Josef","release_de":"07.08.2014","title_en":"Jesus, Mary & Joseph","release_en":"23.12.2012","episode":"196"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.09"}}
+{"season":"11","eos":"9","title_de":"Griffins, wir haben ein Problem","release_de":"14.08.2014","title_en":"Space Cadet","release_en":"06.01.2013","episode":"197"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.10"}}
+{"season":"11","eos":"10","title_de":"Eine vorübergehende Laune","release_de":"14.08.2014","title_en":"Brian’s Play","release_en":"13.01.2013","episode":"198"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.11"}}
+{"season":"11","eos":"11","title_de":"Ehe wider Willen","release_de":"21.08.2014","title_en":"The Giggity Wife","release_en":"27.01.2013","episode":"199"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.12"}}
+{"season":"11","eos":"12","title_de":"Valentinstag in Quahog","release_de":"21.08.2014","title_en":"Valentine’s Day In Quahog","release_en":"10.02.2013","episode":"200"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.13"}}
+{"season":"11","eos":"13","title_de":"Chris auf Abwegen","release_de":"28.08.2014","title_en":"Chris Cross","release_en":"17.02.2013","episode":"201"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.14"}}
+{"season":"11","eos":"14","title_de":"Callgirl","release_de":"28.08.2014","title_en":"Call Girl","release_en":"10.03.2013","episode":"202"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.15"}}
+{"season":"11","eos":"15","title_de":"Turban Cowboy","release_de":"04.09.2014","title_en":"Turban Cowboy","release_en":"17.03.2013","episode":"203"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.16"}}
+{"season":"11","eos":"16","title_de":"Die elfeinhalb Geschworenen","release_de":"04.09.2014","title_en":"12 And A Half Angry Men","release_en":"24.03.2013","episode":"204"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.17"}}
+{"season":"11","eos":"17","title_de":"Peter aus der Wildnis","release_de":"11.09.2014","title_en":"Bigfat","release_en":"14.04.2013","episode":"205"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.18"}}
+{"season":"11","eos":"18","title_de":"Die Rückrufaktion","release_de":"11.09.2014","title_en":"Total Recall","release_en":"28.04.2013","episode":"206"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.19"}}
+{"season":"11","eos":"19","title_de":"Rettet die Bar","release_de":"18.09.2014","title_en":"Save The Clam","release_en":"05.05.2013","episode":"207"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.20"}}
+{"season":"11","eos":"20","title_de":"Farmer Guy","release_de":"18.09.2014","title_en":"Farmer Guy","release_en":"12.05.2013","episode":"208"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.21"}}
+{"season":"11","eos":"21","title_de":"Wege nach Vegas","release_de":"25.09.2014","title_en":"Roads To Vegas","release_en":"19.05.2013","episode":"209"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "11.22"}}
+{"season":"11","eos":"22","title_de":"Peter im Country Club","release_de":"25.09.2014","title_en":"No Country Club For Old Men","release_en":"19.05.2013","episode":"210"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.01"}}
+{"season":"12","eos":"1","title_de":"Die Schatzsuche","release_de":"15.04.2015","title_en":"Finders Keepers","release_en":"29.09.2013","episode":"211"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.02"}}
+{"season":"12","eos":"2","title_de":"Die Halsgeburt","release_de":"15.04.2015","title_en":"Vestigial Peter","release_en":"06.10.2013","episode":"212"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.03"}}
+{"season":"12","eos":"3","title_de":"Quagmires Quälgeist","release_de":"22.04.2015","title_en":"Quagmire's Quagmire","release_en":"03.11.2013","episode":"213"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.04"}}
+{"season":"12","eos":"4","title_de":"Für eine Handvoll Meg","release_de":"22.04.2015","title_en":"A Fistful Of Meg","release_en":"10.11.2013","episode":"214"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.05"}}
+{"season":"12","eos":"5","title_de":"La Grande Peterezza","release_de":"29.04.2015","title_en":"Boopa-dee Bappa-dee","release_en":"17.11.2013","episode":"215"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.06"}}
+{"season":"12","eos":"6","title_de":"Das Leben des Brian","release_de":"29.04.2015","title_en":"Life Of Brian","release_en":"24.11.2013","episode":"216"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.07"}}
+{"season":"12","eos":"7","title_de":"Ein harmonisches Duo","release_de":"06.05.2015","title_en":"Into Harmony's Way","release_en":"08.12.2013","episode":"217"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.08"}}
+{"season":"12","eos":"8","title_de":"Christmas Guy","release_de":"06.05.2015","title_en":"Christmas Guy","release_en":"15.12.2013","episode":"218"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.09"}}
+{"season":"12","eos":"9","title_de":"Peter-Probleme","release_de":"13.05.2015","title_en":"Peter Problems","release_en":"05.01.2014","episode":"219"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.10"}}
+{"season":"12","eos":"10","title_de":"Grimmige Märchen","release_de":"13.05.2015","title_en":"Grimm Job","release_en":"12.01.2014","episode":"220"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.11"}}
+{"season":"12","eos":"11","title_de":"Ein hundsmiserabler Vater","release_de":"20.05.2015","title_en":"Brian's A Bad Father","release_en":"26.01.2014","episode":"221"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.12"}}
+{"season":"12","eos":"12","title_de":"Mutterliebe","release_de":"20.05.2015","title_en":"Mom's The Word","release_en":"09.03.2014","episode":"222"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.13"}}
+{"season":"12","eos":"13","title_de":"Gottes Werk und Peters Beitrag","release_de":"27.05.2015","title_en":"3 Acts Of God","release_en":"16.03.2014","episode":"223"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.14"}}
+{"season":"12","eos":"14","title_de":"Carter sehen und erben","release_de":"27.05.2015","title_en":"Fresh Heir","release_en":"23.03.2014","episode":"224"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.15"}}
+{"season":"12","eos":"15","title_de":"Viel Rauch um nichts","release_de":"03.06.2015","title_en":"Secondhand Spoke","release_en":"30.03.2014","episode":"225"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.16"}}
+{"season":"12","eos":"16","title_de":"Die Herpes-Brüderschaft","release_de":"03.06.2015","title_en":"Herpe The Love Sore","release_en":"06.04.2014","episode":"226"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.17"}}
+{"season":"12","eos":"17","title_de":"Peter wird intelligent","release_de":"10.06.2015","title_en":"The Most Interesting Man In The World","release_en":"13.04.2014","episode":"227"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.18"}}
+{"season":"12","eos":"18","title_de":"Schwarz ist das neue Weiß","release_de":"10.06.2015","title_en":"Baby Got Black","release_en":"27.04.2014","episode":"228"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.19"}}
+{"season":"12","eos":"19","title_de":"Meg stinkt","release_de":"10.06.2015","title_en":"Meg Stinks!","release_en":"04.05.2014","episode":"229"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.20"}}
+{"season":"12","eos":"20","title_de":"Willkommen zurück, Cleveland!","release_de":"10.06.2015","title_en":"He's Bla-ack!","release_en":"11.05.2014","episode":"230"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "12.21"}}
+{"season":"12","eos":"21","title_de":"Downton Stewie","release_de":"10.06.2015","title_en":"Chap Stewie","release_en":"18.05.2014","episode":"231"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.01"}}
+{"season":"13","eos":"1","title_de":"Simpsons Guy (1)","release_de":"25.08.2015","title_en":"The Simpsons Guy (1)","release_en":"28.09.2014","episode":"232"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.01"}}
+{"season":"13","eos":"1","title_de":"Simpsons Guy (2)","release_de":"25.08.2015","title_en":"The Simpsons Guy (2)","release_en":"28.09.2014","episode":"232"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.02"}}
+{"season":"13","eos":"2","title_de":"Das hoffnungsvolle Eichhörnchen","release_de":"13.04.2016","title_en":"Book Of Joe","release_en":"05.10.2014","episode":"233"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.03"}}
+{"season":"13","eos":"3","title_de":"Baking Bad","release_de":"20.04.2016","title_en":"Baking Bad","release_en":"19.10.2014","episode":"234"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.04"}}
+{"season":"13","eos":"4","title_de":"Zahn um Zahn","release_de":"20.04.2016","title_en":"Brian The Closer","release_en":"09.11.2014","episode":"235"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.05"}}
+{"season":"13","eos":"5","title_de":"Die Jagd nach dem Truthahn","release_de":"27.04.2016","title_en":"Turkey Guys","release_en":"16.11.2014","episode":"236"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.06"}}
+{"season":"13","eos":"6","title_de":"Jungfrau, männlich, sucht …","release_de":"27.04.2016","title_en":"The 2000-Year-Old Virgin","release_en":"07.12.2014","episode":"237"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.07"}}
+{"season":"13","eos":"7","title_de":"Stewie, Chris und Brians verrückte Reise durch die Zeit","release_de":"04.05.2016","title_en":"Stewie, Chris, & Brian'ss Excellent Adventure","release_en":"04.01.2015","episode":"238"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.08"}}
+{"season":"13","eos":"8","title_de":"Unser Trottel Brian","release_de":"04.05.2016","title_en":"Our Idiot Brian","release_en":"11.01.2015","episode":"239"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.09"}}
+{"season":"13","eos":"9","title_de":"Süße Füße","release_de":"11.05.2016","title_en":"This Little Piggy","release_en":"25.01.2015","episode":"240"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.10"}}
+{"season":"13","eos":"10","title_de":"Quagmires Mutter","release_de":"11.05.2016","title_en":"Quagmire's Mom","release_en":"08.02.2015","episode":"241"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.11"}}
+{"season":"13","eos":"11","title_de":"Encyclopedia Griffin","release_de":"18.05.2016","title_en":"Encyclopedia Griffin","release_en":"15.02.2015","episode":"242"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.12"}}
+{"season":"13","eos":"12","title_de":"Stewie in anderen Umständen","release_de":"18.05.2016","title_en":"Stewie Is Enceinte","release_en":"08.03.2015","episode":"243"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.13"}}
+{"season":"13","eos":"13","title_de":"Fragen Sie Cleveland","release_de":"25.05.2016","title_en":"Dr. C And The Women","release_en":"15.03.2015","episode":"244"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.14"}}
+{"season":"13","eos":"14","title_de":"JOLO","release_de":"25.05.2016","title_en":"#JOLO","release_en":"12.04.2015","episode":"245"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.15"}}
+{"season":"13","eos":"15","title_de":"Wer einmal beißt","release_de":"01.06.2016","title_en":"Once Bitten","release_en":"19.04.2015","episode":"246"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.16"}}
+{"season":"13","eos":"16","title_de":"Peters neue Freundinnen","release_de":"01.06.2016","title_en":"Roasted Guy","release_en":"26.04.2015","episode":"247"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.17"}}
+{"season":"13","eos":"17","title_de":"Irische Kämpfe","release_de":"08.06.2016","title_en":"Fighting Irish","release_en":"03.05.2015","episode":"248"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "13.18"}}
+{"season":"13","eos":"18","title_de":"Reif für die Insel","release_de":"08.06.2016","title_en":"Take My Wife","release_en":"17.05.2015","episode":"249"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.01"}}
+{"season":"14","eos":"1","title_en":"Pilling Them Softly","release_en":"27.09.2015","episode":"250"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.02"}}
+{"season":"14","eos":"2","title_en":"Papa Has A Rollin�' Son","release_en":"04.10.2015","episode":"251"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.03"}}
+{"season":"14","eos":"3","title_en":"Guy, Robot","release_en":"11.10.2015","episode":"252"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.04"}}
+{"season":"14","eos":"4","title_en":"Peternormal Activity","release_en":"25.10.2015","episode":"253"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.05"}}
+{"season":"14","eos":"5","title_en":"Peter, Chris & Brian","release_en":"08.11.2015","episode":"254"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.06"}}
+{"season":"14","eos":"6","title_en":"Peter's Sister","release_en":"15.11.2015","episode":"255"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.07"}}
+{"season":"14","eos":"7","title_en":"Hot Pocket-Dial","release_en":"22.11.2015","episode":"256"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.08"}}
+{"season":"14","eos":"8","title_en":"Brokeback Swanson","release_en":"06.12.2015","episode":"257"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.09"}}
+{"season":"14","eos":"9","title_en":"A Shot In The Dark","release_en":"13.12.2015","episode":"258"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.10"}}
+{"season":"14","eos":"10","title_en":"Candy, Quahog Marshmallow","release_en":"03.01.2016","episode":"259"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.11"}}
+{"season":"14","eos":"11","title_en":"The Peanut Butter Kid","release_en":"10.01.2016","episode":"260"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.12"}}
+{"season":"14","eos":"12","title_en":"Scammed Yankees","release_en":"17.01.2016","episode":"261"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.13"}}
+{"season":"14","eos":"13","title_en":"An App A Day","release_en":"14.02.2016","episode":"262"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.14"}}
+{"season":"14","eos":"14","title_en":"Underage Peter","release_en":"21.02.2016","episode":"263"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.15"}}
+{"season":"14","eos":"15","title_en":"A Lot Going On Upstairs","release_en":"06.03.2016","episode":"264"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.16"}}
+{"season":"14","eos":"16","title_en":"The Heartbreak Dog","release_en":"13.03.2016","episode":"265"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.17"}}
+{"season":"14","eos":"17","title_en":"Take A Letter","release_en":"17.04.2016","episode":"266"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.18"}}
+{"season":"14","eos":"18","title_en":"The New Adventures Of Old Tom","release_en":"08.05.2016","episode":"267"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.19"}}
+{"season":"14","eos":"19","title_en":"Run, Chris, Run","release_en":"15.05.2016","episode":"268"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "14.20"}}
+{"season":"14","eos":"20","title_en":"Road To India","release_en":"22.05.2016","episode":"269"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "15.01"}}
+{"season":"15","eos":"1","title_en":"The Boys In The Band","release_en":"25.09.2016","episode":"270"}
+{ "index": { "_index": "familyguy", "_type": "episode", "_id": "15.02"}}
+{"season":"15","eos":"2","title_en":"Bookie Of The Year","release_en":"02.10.2016","episode":"271"}
